@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akitomonam&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
-### 学会発表
+### Conference Presentations
 - [話題継続とペルソナを考慮した雑談対話システムの構築](https://www.jstage.jst.go.jp/article/jsaislud/96/0/96_47/_article/-char/ja/)
 - [タスク指向型対話におけるAPIスキーマに基づくユーザ発話からのタスク推定](https://www.jstage.jst.go.jp/article/jsaislud/96/0/96_42/_article/-char/ja/)
 - [複数の応答⽣成モデルを⽤いた音声雑談対話システムの構築とその対話選択方式の検討](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4Yin249/_article/-char/ja/)
