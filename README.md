@@ -4,6 +4,8 @@
 - [話題継続とペルソナを考慮した雑談対話システムの構築](https://www.jstage.jst.go.jp/article/jsaislud/96/0/96_47/_article/-char/ja/)
 - [タスク指向型対話におけるAPIスキーマに基づくユーザ発話からのタスク推定](https://www.jstage.jst.go.jp/article/jsaislud/96/0/96_42/_article/-char/ja/)
 - [複数の応答⽣成モデルを⽤いた音声雑談対話システムの構築とその対話選択方式の検討](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4Yin249/_article/-char/ja/)
+
+![](https://komarev.com/ghpvc/?username=akitomonam)
 <!--
 **akitomonam/akitomonam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
